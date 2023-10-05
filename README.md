@@ -139,8 +139,6 @@ All pull requests will be reviewed by the project maintainers. Constructive feed
 
 ## Contact
 
-[Connect on LinkedIn](https://www.linkedin.com/in/calden-michael/)
-
 <table>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/calden-michael/">Calden Michael D'Souza</td>
